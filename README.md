@@ -1,3 +1,5 @@
+![Project Logo](Project_Logo.png)
+
 # Jimmy Yodeler: Military Voice Procedure Trainer
 
 ## Overview
