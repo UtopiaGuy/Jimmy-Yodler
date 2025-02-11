@@ -72,17 +72,10 @@
 ## Future Enhancements
 
 - **Expanded Training Library:** More realistic military scenarios.
-- **AI-Driven Feedback:** Adaptive learning based on trainee performance.
+- **AI-Driven Feedback:** Adaptive learning based on trainee peformance.
 - **Mobile Compatibility:** Support for training on-the-go.
 
-## Contributing
-
-Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md) and submit a pull request.
-
-## License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For questions or feedback, please contact **[Your Name]** at **[Your Email]**.
+For questions or feedback, please contact **Ahmed Nosseir** at **any284@uregina.ca**.
